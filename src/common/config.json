@@ -1,0 +1,7 @@
+{
+  "Server": "0.0.0.0:8080",
+  "MongoDBHost": "cluster0-ctwix.mongodb.net",
+  "MongoDBUser": "conan",
+  "MongoDBPwd": "D7zlVg4sPf7v8hBw",
+  "Database": "test"
+}

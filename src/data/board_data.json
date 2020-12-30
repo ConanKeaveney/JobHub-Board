@@ -1,0 +1,56 @@
+[    
+    {
+        "id": "",
+        "title": "Board Title",
+        "Categories": [
+            {
+                "id": 1,
+                "title": "Wishlist",
+                "Jobs": [
+                	                        {
+                            "JobDetails": {
+                            	"company": "Trello",
+                                "title": "Software Engineer",
+                                "Location": "Dublin",
+                                "category": "SWE",
+                                "post_date": "2000-01-01T00:00:00Z",
+                                "description": "A job description blah blah blah",
+                                "experience": "Junior",
+                                "url": "www.career.com/swe",
+                                "date_added": "2000-01-01T00:00:00Z",
+                                "salary": 100000,
+                                "Tasks": [
+                                    {
+                                        "id": "",
+                                        "name": "Accept Offer",
+                                        "due_date": "2000-01-01T00:00:00Z"
+                                    }
+                                ]
+                            }
+                        }
+                	
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Applied",
+                "Jobs": []
+            },
+            {
+                "id": 3,
+                "title": "Interview",
+                "Jobs": []
+            },
+            {
+                "id": 4,
+                "title": "Offer",
+                "Jobs": []
+            },
+            {
+                "id": 5,
+                "title": "Rejected",
+                "Jobs": []
+            }
+        ]
+    }
+]
